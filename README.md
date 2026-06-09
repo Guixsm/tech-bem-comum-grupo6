@@ -10,8 +10,6 @@ O protótipo foi criado para resolver um problema referente ao cotidiano pessoal
 https://www.figma.com/design/dXizmQebwyinMpUrPKMgOw/Prot%C3%B3tipo---Gest%C3%A3o-do-Tempo-de-Estudos--Copy-?node-id=1-3559&t=uc3OS8AGCUUfQTcR-1
 ## Uso de Inteligência Artificial
 
-**Projeto:** Cycle **Grupo:** 6 **Disciplina:** IAUC — IF Goiano Campus Iporá — 2026/1
-
 ## Ferramentas utilizadas
 - Gemini
 ## Etapas em que a IA foi utilizada
